@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" font-family="Consolas, 'Liberation Mono', monospace" width="1080" height="500" viewBox="0 0 1080 500" font-size="16">
+  <style>
+    .key { fill: #ffa657; font-weight: 700; }
+    .value { fill: #a5d6ff; }
+    .muted { fill: #616e7f; }
+    .accent { fill: #39d353; }
+    text, tspan { white-space: pre; }
+  </style>
+  <rect width="1080" height="500" rx="15" fill="#161b22"/>
+  <text x="40" y="40" fill="#f0f6fc" font-size="17">
+    <tspan x="40" dy="0" fill="#74acdf">              ╭──────╮              </tspan>
+    <tspan x="40" dy="20" fill="#74acdf">        ╭─────╯      ╰─────╮        </tspan>
+    <tspan x="40" dy="20">      ╭─╯  </tspan><tspan fill="#74acdf">║░║░║░║░║░║</tspan><tspan>  ╰─╮      </tspan>
+    <tspan x="40" dy="20">     ╱    </tspan><tspan fill="#74acdf">║░║░║░║░║░║</tspan><tspan>    ╲     </tspan>
+    <tspan x="40" dy="20">    ╱     </tspan><tspan fill="#74acdf">║░║</tspan><tspan fill="#ffffff" font-weight="700"> MESSI </tspan><tspan fill="#74acdf">║░║</tspan><tspan>     ╲    </tspan>
+    <tspan x="40" dy="20">   ╰────╮ </tspan><tspan fill="#74acdf">║░║░║░║░║░║</tspan><tspan> ╭────╯   </tspan>
+    <tspan x="40" dy="20">        │ </tspan><tspan fill="#74acdf">║░║░║░║░║░║</tspan><tspan> │        </tspan>
+    <tspan x="40" dy="20">        │ </tspan><tspan fill="#74acdf">║░║</tspan><tspan fill="#e3b341">  ██╗  ██████╗</tspan><tspan> │        </tspan>
+    <tspan x="40" dy="20">        │ </tspan><tspan fill="#74acdf">║░║</tspan><tspan fill="#e3b341"> ███║ ██╔═██║</tspan><tspan> │        </tspan>
+    <tspan x="40" dy="20">        │ </tspan><tspan fill="#74acdf">║░║</tspan><tspan fill="#e3b341"> ╚██║ ██║ ██║</tspan><tspan> │        </tspan>
+    <tspan x="40" dy="20">        │ </tspan><tspan fill="#74acdf">║░║</tspan><tspan fill="#e3b341">  ██║ ██║ ██║</tspan><tspan> │        </tspan>
+    <tspan x="40" dy="20">        │ </tspan><tspan fill="#74acdf">║░║</tspan><tspan fill="#e3b341">  ██║ ╚█████╔╝</tspan><tspan> │        </tspan>
+    <tspan x="40" dy="20">        │ </tspan><tspan fill="#74acdf">║░║</tspan><tspan fill="#e3b341">  ╚═╝  ╚════╝</tspan><tspan> │        </tspan>
+    <tspan x="40" dy="20">        │ </tspan><tspan fill="#74acdf">║░║░║░║░║░║</tspan><tspan> │        </tspan>
+    <tspan x="40" dy="20">        │ </tspan><tspan fill="#74acdf">║░║░║░║░║░║</tspan><tspan> │        </tspan>
+    <tspan x="40" dy="20">        ╰─</tspan><tspan fill="#74acdf">║░║░║░║░║░║</tspan><tspan>─╯        </tspan>
+    <tspan x="40" dy="20" fill="#74acdf">          ╚══════════╝          </tspan>
+    <tspan x="40" dy="29" fill="#a5d6ff">       PHP  •  LARAVEL  •  REACT</tspan>
+  </text>
+  <text x="430" y="35" fill="#c9d1d9">
+    <tspan x="430" dy="0" font-weight="700">ahmad@a4hmad1</tspan><tspan class="muted"> ─────────────────────────────────────</tspan>
+    <tspan x="430" dy="24" class="muted">• </tspan><tspan class="key">OS</tspan><tspan>: </tspan><tspan class="muted">.......................... </tspan><tspan class="value">Ubuntu, Android</tspan>
+    <tspan x="430" dy="21" class="muted">• </tspan><tspan class="key">Uptime</tspan><tspan>: </tspan><tspan class="muted">......................... </tspan><tspan class="value">22 years</tspan>
+    <tspan x="430" dy="21" class="muted">• </tspan><tspan class="key">Location</tspan><tspan>: </tspan><tspan class="muted">....................... </tspan><tspan class="value">Kurdistan</tspan>
+    <tspan x="430" dy="21" class="muted">• </tspan><tspan class="key">Role</tspan><tspan>: </tspan><tspan class="muted">.................... </tspan><tspan class="value">Full-Stack Developer</tspan>
+    <tspan x="430" dy="21" class="muted">• </tspan><tspan class="key">IDE</tspan><tspan>: </tspan><tspan class="muted">................. </tspan><tspan class="value">PhpStorm, VS Code</tspan>
+    <tspan x="430" dy="27">─ Stack </tspan><tspan class="muted">────────────────────────────────────────</tspan>
+    <tspan x="430" dy="24" class="muted">• </tspan><tspan class="key">Languages.Programming</tspan><tspan>: </tspan><tspan class="muted">... </tspan><tspan class="value">PHP, JavaScript, C#</tspan>
+    <tspan x="430" dy="21" class="muted">• </tspan><tspan class="key">Languages.Learning</tspan><tspan>: </tspan><tspan class="muted">........ </tspan><tspan class="value">Python, Java</tspan>
+    <tspan x="430" dy="21" class="muted">• </tspan><tspan class="key">Frameworks</tspan><tspan>: </tspan><tspan class="muted">................ </tspan><tspan class="value">Laravel, React</tspan>
+    <tspan x="430" dy="21" class="muted">• </tspan><tspan class="key">Tools</tspan><tspan>: </tspan><tspan class="muted">............... </tspan><tspan class="value">Docker, Git, GitHub</tspan>
+    <tspan x="430" dy="21" class="muted">• </tspan><tspan class="key">Interests</tspan><tspan>: </tspan><tspan class="muted">.......... </tspan><tspan class="value">APIs, Auth, Queues, Football</tspan>
+    <tspan x="430" dy="27">─ Contact </tspan><tspan class="muted">──────────────────────────────────────</tspan>
+    <tspan x="430" dy="24" class="muted">• </tspan><tspan class="key">Email</tspan><tspan>: </tspan><tspan class="muted">.............. </tspan><tspan class="value">ahmaddmuhammad03@gmail.com</tspan>
+    <tspan x="430" dy="21" class="muted">• </tspan><tspan class="key">Portfolio</tspan><tspan>: </tspan><tspan class="muted">................. </tspan><tspan class="value">codeahmad.vercel.app</tspan>
+    <tspan x="430" dy="21" class="muted">• </tspan><tspan class="key">Telegram</tspan><tspan>: </tspan><tspan class="muted">........................ </tspan><tspan class="value">@a4hmad1</tspan>
+    <tspan x="430" dy="27">─ GitHub Stats </tspan><tspan class="muted">─────────────────────────────────</tspan>
+    <tspan x="430" dy="24" class="muted">• </tspan><tspan class="key">Repos</tspan><tspan>: </tspan><tspan class="muted" id="repo_data_dots">.................. </tspan><tspan class="value" id="repo_data">11</tspan><tspan>  |  </tspan><tspan class="key">Stars</tspan><tspan>: </tspan><tspan class="value" id="star_data">0</tspan>
+    <tspan x="430" dy="21" class="muted">• </tspan><tspan class="key">Followers</tspan><tspan>: </tspan><tspan class="muted" id="follower_data_dots">.............. </tspan><tspan class="value" id="follower_data">24</tspan><tspan>  |  </tspan><tspan class="key">Focus</tspan><tspan>: </tspan><tspan class="accent">Keep building</tspan>
+  </text>
+</svg>
