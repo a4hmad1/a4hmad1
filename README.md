@@ -84,7 +84,7 @@ Behind every developer striving for excellence are mentors who challenge their t
       </a>
       <br />
       <h3><a href="https://github.com/codezardasht" style="color: #6366F1; text-decoration: none;">Zardasht Rwandzi (@codezardasht)</a></h3>
-      <p><b>⚡ Senior Backend Engineer • TechnoBase</b></p>
+      <p><b>⚡ Senior Backend Engineer • <a href="https://technobase.krd/" style="color: #38BDF8; text-decoration: none;">TechnoBase</a></b></p>
       <p align="left">
         <blockquote>
           <i>"Tremendous appreciation to Zardasht for inspiring high-level Laravel backend engineering, deep Eloquent optimization, and real-world system architecture. His experience as a senior backend engineer sets the benchmark for performance, clean structure, and disciplined development."</i>
@@ -94,6 +94,9 @@ Behind every developer striving for excellence are mentors who challenge their t
         <a href="https://github.com/codezardasht">
           <img src="https://img.shields.io/badge/GitHub-@codezardasht-181717?style=flat-square&logo=github" alt="codezardasht GitHub" />
         </a>
+        <a href="https://technobase.krd/">
+          <img src="https://img.shields.io/badge/Company-TechnoBase-3B82F6?style=flat-square" alt="TechnoBase" />
+        </a>
         <img src="https://img.shields.io/badge/Pillar-Eloquent_%26_Architecture-4F46E5?style=flat-square" alt="Architecture Pillar" />
       </div>
     </td>
@@ -102,91 +105,45 @@ Behind every developer striving for excellence are mentors who challenge their t
 
 ---
 
-## 🎯 Am I Fresh? — Honest Level Assessment & Skill Matrix
-
-> *"Knowing where you stand is the first step toward true mastery."*
-
-I identify transparently as a **Fresh / Junior Full-Stack Developer** with a deep foundation in **Frontend essentials (HTML, CSS, JS, React, Next.js)** and an intense focus on **Laravel Backend & Automated Testing (TDD)**.
-
-Here is an honest breakdown of my current proficiency across both frontend and backend to help mentors, recruiters, and reviewers evaluate my level:
-
-| Full-Stack Discipline | Level | Confidence | What I Can Build & Deliver Today |
-| :--- | :---: | :---: | :--- |
-| **🎨 Frontend (HTML / CSS / JS / React / Next.js)** | **Junior+** | `85%` | • Semantic HTML5 & responsive modern CSS layouts (Flexbox, Grid, Tailwind)<br />• Modern JavaScript (ES6+), DOM manipulation, async/fetch operations<br />• Component-driven frontend architecture with **React** & **Next.js**<br />• Connecting frontend client applications to backend REST APIs |
-| **🧪 Automated Testing (TDD)** | **Junior+** | `85%` | • Feature & Unit test suites using **Pest PHP** and **PHPUnit**<br />• Database state testing with Factories & Transactions<br />• Mocking external services and asserting JSON API payloads<br />• Testing authentication, validation rules, and authorization gates |
-| **🐘 Laravel Backend Core** | **Junior+** | `80%` | • Clean Controllers, Custom Form Requests, and Service Classes<br />• Eloquent Relationships (`1:1`, `1:N`, `N:N`, Polymorphic)<br />• Middleware pipelines, Custom Exceptions, and Service Providers<br />• Modular and maintainable project structures |
-| **🌐 RESTful API Development** | **Junior+** | `80%` | • Standardized REST endpoints with appropriate HTTP status codes<br />• API Resource Transformations (`JsonResource` & Collections)<br />• Token & session authentication using **Laravel Sanctum**<br />• Clean request validation and structured error handling |
-| **⚡ Queues & Async Processing** | **Junior** | `70%` | • Dispatching queued Jobs and Events with **Redis**<br />• Handling failed jobs, retry attempts, and queue workers<br />• Scheduled background tasks using Laravel Scheduler (`schedule:run`) |
-| **🗄️ Database & Optimization** | **Junior** | `70%` | • Schema migrations, foreign keys, and indexes<br />• Preventing `N+1` query bottlenecks via Eager Loading (`with()`)<br />• Query Builder and Eloquent performance patterns |
-| **🐧 Linux, Git & DevOps** | **Junior** | `65%` | • Comfortable with Linux terminal, Bash scripts, and permissions<br />• Git branch workflow, commits, and PR reviews<br />• Basic Docker containerization for full-stack environments |
-
-<div align="center">
-  <br />
-  <p>
-    <b>🔍 Want to help me calibrate my skills?</b>
-    <br />
-    <i>Inspect any of my repositories, open an issue, or propose a hard test challenge. Constructive feedback is the best gift for my growth!</i>
-  </p>
-</div>
-
----
-
-## 🎓 Laracasts Backend Journey & Curated Series
-
-Laracasts has been my virtual academy for backend craftsmanship. Here are the core backend series, instructors, and concepts that form my foundation:
+## 🏛️ Learning Platform & Company
 
 <table align="center" width="100%">
-  <thead>
-    <tr>
-      <th width="35%">📚 Backend Series</th>
-      <th width="25%">👨‍🏫 Instructor / Origin</th>
-      <th width="40%">💡 Core Mastery & Takeaway</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><b>🧪 Testing Laravel with Pest & PHPUnit</b></td>
-      <td>
-        <a href="https://github.com/lukeraymonddowning">Luke Downing</a> & <a href="https://github.com/jeffreyway">Jeffrey Way</a>
-      </td>
-      <td>Test-Driven Development (TDD), Feature testing HTTP responses, Pest syntax elegance, database assertions, and mocking.</td>
-    </tr>
-    <tr>
-      <td><b>🚀 Laravel From Scratch (Core & 11)</b></td>
-      <td>
-        <a href="https://github.com/jeffreyway">Jeffrey Way</a>
-      </td>
-      <td>Service container deep dive, dependency injection, routing, middleware, model binding, and blade components.</td>
-    </tr>
-    <tr>
-      <td><b>⚡ Laravel Queues in Action</b></td>
-      <td>
-        <a href="https://github.com/themsaid">Mohamed Said</a> / Laracasts
-      </td>
-      <td>Asynchronous architecture, Redis drivers, job dispatching, supervisor workers, failure handling, and event dispatching.</td>
-    </tr>
-    <tr>
-      <td><b>🗄️ Eloquent Performance Patterns</b></td>
-      <td>
-        <a href="https://github.com/reinink">Jonathan Reinink</a>
-      </td>
-      <td>Eliminating N+1 queries, optimizing subqueries in SQL, minimizing memory overhead, and indexing databases properly.</td>
-    </tr>
-    <tr>
-      <td><b>🛡️ Building RESTful APIs with Laravel</b></td>
-      <td>
-        <a href="https://github.com/christophrumpel">Christoph Rumpel</a>
-      </td>
-      <td>Token auth with Laravel Sanctum, API Resource collections, OpenAPI alignment, rate limiting, and exception sanitization.</td>
-    </tr>
-    <tr>
-      <td><b>🧼 Clean Code & Refactoring in PHP</b></td>
-      <td>
-        <a href="https://github.com/jeffreyway">Jeffrey Way</a>
-      </td>
-      <td>Single responsibility principle, eliminating code smells, domain action classes, and self-documenting code.</td>
-    </tr>
-  </tbody>
+  <tr>
+    <!-- Laracasts Card -->
+    <td align="center" width="50%" valign="top" style="padding: 20px; border: 1px solid #30363d; border-radius: 12px; background-color: #0d1117;">
+      <a href="https://laracasts.com" target="_blank">
+        <img src="https://laracasts.com/images/logo-new.svg" height="52px" alt="Laracasts" />
+      </a>
+      <br /><br />
+      <h3><a href="https://laracasts.com" style="color: #0099FF; text-decoration: none;">Laracasts</a></h3>
+      <p><b>🎓 Premier Platform for PHP, Laravel & Clean Code</b></p>
+      <p align="center">
+        <i>My daily virtual academy for mastering modern PHP 8+, clean architecture patterns, RESTful APIs, and Test-Driven Development.</i>
+      </p>
+      <div align="center">
+        <a href="https://laracasts.com" target="_blank">
+          <img src="https://img.shields.io/badge/Official_Website-laracasts.com-0099FF?style=for-the-badge&logo=laracasts&logoColor=white" alt="Laracasts Website" />
+        </a>
+      </div>
+    </td>
+    <!-- TechnoBase Card -->
+    <td align="center" width="50%" valign="top" style="padding: 20px; border: 1px solid #30363d; border-radius: 12px; background-color: #0d1117;">
+      <a href="https://technobase.krd/" target="_blank">
+        <img src="https://technobase.krd/img/icon.png" width="62px" height="62px" style="border-radius: 50%; border: 2px solid #3B82F6; object-fit: cover;" alt="TechnoBase" />
+      </a>
+      <br /><br />
+      <h3><a href="https://technobase.krd/" style="color: #38BDF8; text-decoration: none;">TechnoBase</a></h3>
+      <p><b>🏢 Software Development & Engineering • Erbil, Kurdistan</b></p>
+      <p align="center">
+        <i>Enterprise software development company and high-performance engineering hub where my mentor <a href="https://github.com/codezardasht">@codezardasht</a> builds scalable systems.</i>
+      </p>
+      <div align="center">
+        <a href="https://technobase.krd/" target="_blank">
+          <img src="https://img.shields.io/badge/Official_Website-technobase.krd-1E40AF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="TechnoBase Website" />
+        </a>
+      </div>
+    </td>
+  </tr>
 </table>
 
 ---
@@ -281,24 +238,6 @@ Here are some highlights of my recent hands-on projects:
 
 ---
 
-## 🤝 Let's Connect & Build Together
-
-Whether you are looking for an energetic, disciplined **Full-Stack / Backend Developer**, a mentee who embraces feedback with enthusiasm, or just want to discuss Laravel and TDD:
-
 <div align="center">
-
-  <p>
-    <a href="https://github.com/a4hmad1">
-      <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
-    </a>
-    <a href="mailto:a4hmad1@users.noreply.github.com">
-      <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me" />
-    </a>
-    <a href="https://github.com/a4hmad1?tab=repositories">
-      <img src="https://img.shields.io/badge/Repositories-Explore_Code-FF2D20?style=for-the-badge&logo=git&logoColor=white" alt="Explore Code" />
-    </a>
-  </p>
-
-  <p><i>"Any fool can write code that a computer can understand. Good programmers write code that humans can understand — and tests that prove it works."</i></p>
-
+  <sub>Mentored with deep respect by <a href="https://github.com/ravensborn">@ravensborn</a> &amp; <a href="https://github.com/codezardasht">@codezardasht</a> • Learning on <a href="https://laracasts.com">Laracasts</a> • Inspired by <a href="https://technobase.krd/">TechnoBase</a></sub>
 </div>
