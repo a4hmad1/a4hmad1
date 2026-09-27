@@ -1,0 +1,96 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 240" width="100%" height="240" fill="none">
+  <defs>
+    <!-- Background Gradient -->
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0a0d14"/>
+      <stop offset="50%" stop-color="#0e131f"/>
+      <stop offset="100%" stop-color="#141a29"/>
+    </linearGradient>
+
+    <!-- Laravel Red Glow Gradient -->
+    <radialGradient id="redGlow" cx="20%" cy="30%" r="60%">
+      <stop offset="0%" stop-color="#FF2D20" stop-opacity="0.22"/>
+      <stop offset="100%" stop-color="#FF2D20" stop-opacity="0"/>
+    </radialGradient>
+
+    <!-- Indigo Glow Gradient -->
+    <radialGradient id="indigoGlow" cx="80%" cy="80%" r="50%">
+      <stop offset="0%" stop-color="#4F46E5" stop-opacity="0.18"/>
+      <stop offset="100%" stop-color="#4F46E5" stop-opacity="0"/>
+    </radialGradient>
+
+    <!-- Text Gradient -->
+    <linearGradient id="textGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FFFFFF"/>
+      <stop offset="60%" stop-color="#F3F4F6"/>
+      <stop offset="100%" stop-color="#FF2D20"/>
+    </linearGradient>
+
+    <!-- Border Gradient -->
+    <linearGradient id="borderGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FF2D20" stop-opacity="0.7"/>
+      <stop offset="50%" stop-color="#4F46E5" stop-opacity="0.4"/>
+      <stop offset="100%" stop-color="#FF2D20" stop-opacity="0.7"/>
+    </linearGradient>
+  </defs>
+
+  <style>
+    .title { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif; font-weight: 800; font-size: 40px; fill: url(#textGrad); letter-spacing: -0.5px; }
+    .subtitle { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-weight: 500; font-size: 17px; fill: #94A3B8; }
+    .badge-text { font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace; font-size: 12px; font-weight: 600; fill: #E2E8F0; }
+    .accent-tag { font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace; font-size: 13px; font-weight: 600; fill: #FF4438; }
+  </style>
+
+  <!-- Container Box with Rounded Corners & Subtle Border -->
+  <rect x="2" y="2" width="896" height="236" rx="16" fill="url(#bgGrad)"/>
+  <rect x="2" y="2" width="896" height="236" rx="16" fill="url(#redGlow)"/>
+  <rect x="2" y="2" width="896" height="236" rx="16" fill="url(#indigoGlow)"/>
+  <rect x="2" y="2" width="896" height="236" rx="16" stroke="url(#borderGrad)" stroke-width="1.5"/>
+
+  <!-- Subtle Grid Dots -->
+  <g opacity="0.12" fill="#FFFFFF">
+    <circle cx="680" cy="50" r="1.5"/><circle cx="720" cy="50" r="1.5"/><circle cx="760" cy="50" r="1.5"/><circle cx="800" cy="50" r="1.5"/><circle cx="840" cy="50" r="1.5"/>
+    <circle cx="680" cy="80" r="1.5"/><circle cx="720" cy="80" r="1.5"/><circle cx="760" cy="80" r="1.5"/><circle cx="800" cy="80" r="1.5"/><circle cx="840" cy="80" r="1.5"/>
+    <circle cx="680" cy="110" r="1.5"/><circle cx="720" cy="110" r="1.5"/><circle cx="760" cy="110" r="1.5"/><circle cx="800" cy="110" r="1.5"/><circle cx="840" cy="110" r="1.5"/>
+    <circle cx="680" cy="140" r="1.5"/><circle cx="720" cy="140" r="1.5"/><circle cx="760" cy="140" r="1.5"/><circle cx="800" cy="140" r="1.5"/><circle cx="840" cy="140" r="1.5"/>
+  </g>
+
+  <!-- Top Pill / Status Tag -->
+  <g transform="translate(50, 40)">
+    <rect width="180" height="26" rx="13" fill="#1F1722" stroke="#FF2D20" stroke-opacity="0.4" stroke-width="1"/>
+    <circle cx="15" cy="13" r="4.5" fill="#10B981"/>
+    <text x="28" y="17" class="accent-tag">BACKEND LEARNER</text>
+  </g>
+
+  <!-- Main Headline -->
+  <text x="50" y="112" class="title">Hi, I'm Ahmad 👋</text>
+
+  <!-- Subtitle -->
+  <text x="50" y="146" class="subtitle">Fresh Laravel Developer • Passionate about Clean Code &amp; Test-Driven Development</text>
+
+  <!-- Bottom Badges / Tags -->
+  <g transform="translate(50, 175)">
+    <!-- Badge 1: TDD -->
+    <rect x="0" y="0" width="130" height="28" rx="6" fill="#1E293B" stroke="#334155"/>
+    <text x="14" y="18" class="badge-text">🧪 Pest &amp; PHPUnit</text>
+
+    <!-- Badge 2: Laravel Core -->
+    <rect x="140" y="0" width="115" height="28" rx="6" fill="#1E293B" stroke="#334155"/>
+    <text x="154" y="18" class="badge-text">🐘 Laravel 11</text>
+
+    <!-- Badge 3: Clean Code -->
+    <rect x="265" y="0" width="125" height="28" rx="6" fill="#1E293B" stroke="#334155"/>
+    <text x="278" y="18" class="badge-text">🧼 Clean Code</text>
+
+    <!-- Badge 4: Mentored -->
+    <rect x="400" y="0" width="220" height="28" rx="6" fill="#1E293B" stroke="#334155"/>
+    <text x="412" y="18" class="badge-text">🎖️ Mentored by @ravensborn</text>
+  </g>
+
+  <!-- Decorative Laravel Logo Graphic on the right -->
+  <g transform="translate(740, 50)" opacity="0.85">
+    <path d="M50 5 L95 30 L95 80 L50 105 L5 80 L5 30 Z" fill="#1E192B" stroke="#FF2D20" stroke-width="2"/>
+    <path d="M50 20 L80 37 L80 72 L50 89 L20 72 L20 37 Z" fill="#FF2D20" fill-opacity="0.1" stroke="#FF2D20" stroke-width="1.5"/>
+    <circle cx="50" cy="54" r="8" fill="#FF2D20"/>
+  </g>
+</svg>

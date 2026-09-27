@@ -1,20 +1,14 @@
 <div align="center">
 
-  # Hi there, I'm <span style="color: #FF2D20;">Ahmad</span> 👋
-  ### 🚀 Fresh Backend Developer • Learning Laravel & TDD
+  <img src="./assets/banner.svg" width="100%" alt="Ahmad Banner" />
 
-  <!-- Animated Typing Header -->
-  <a href="https://github.com/a4hmad1">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1000&color=FF2D20&center=true&vCenter=true&width=620&height=45&lines=Fresh+Backend+Developer+%F0%9F%8C%B1;Learning+Laravel+%26+Automated+Testing+%F0%9F%A7%AA;Mentored+by+Yad+(@ravensborn)+%26+Zardasht;Studying+Backend+on+Laracasts+%F0%9F%8E%93" alt="Typing SVG" />
-  </a>
+  <br /><br />
 
-  <br />
-
-  <!-- Compact Badges -->
+  <!-- Status Badges -->
   <p align="center">
-    <img src="https://img.shields.io/badge/Level-Fresh_/_Junior_Backend-blue?style=flat-square" alt="Level" />
-    <img src="https://img.shields.io/badge/Stack-PHP_+_Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
-    <img src="https://img.shields.io/badge/Testing-Pest_PHP-F23473?style=flat-square&logo=pest&logoColor=white" alt="Pest" />
+    <img src="https://img.shields.io/badge/Level-Fresh_Backend_Learner-3B82F6?style=flat-square" alt="Level" />
+    <img src="https://img.shields.io/badge/Focus-Laravel_11_%2B_Clean_Code-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
+    <img src="https://img.shields.io/badge/Testing-Pest_PHP_+_PHPUnit-F23473?style=flat-square&logo=pest&logoColor=white" alt="Testing" />
     <img src="https://img.shields.io/badge/Location-Kurdistan-1F2937?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
     <img src="https://komarev.com/ghpvc/?username=a4hmad1&style=flat-square&color=FF2D20&label=Views" alt="Views" />
   </p>
@@ -25,61 +19,63 @@
 
 ### 👨‍💻 About Me
 
-I am a **fresh backend learner** dedicated to mastering **Laravel** and writing clean, reliable code. Instead of skipping ahead, I am focusing on building strong fundamentals and learning **automated testing (TDD)** right from the beginning.
+> I am a **fresh backend developer** passionate about the **PHP & Laravel** ecosystem.  
+> My philosophy is simple: **learn clean code fundamentals, write tests first, and build with care.**
 
 ```php
-it('helps ahmad grow into a solid backend developer', function () {
-    $developer = Developer::find('a4hmad1');
+it('ensures ahmad builds clean, tested backends and stays humble', function () {
+    $developer = developer('a4hmad1');
 
     expect($developer->level)->toBe('Fresh Junior')
-        ->and($developer->learning)->toContain('Laravel', 'Pest PHP', 'MySQL')
-        ->and($developer->mindset)->toBe('Test First & Keep Learning')
-        ->and($developer->openToFeedback)->toBeTrue();
+        ->and($developer->practices)->toContain('Test-Driven Development', 'Clean Code')
+        ->and($developer->testFrameworks)->toBe(['Pest PHP', 'PHPUnit'])
+        ->and($developer->mindset)->toBe('Never Stop Learning');
 });
 ```
 
 ---
 
-### 🎖️ My Mentors & Teachers
-
-Behind my growth are incredible teachers who guide my steps, challenge me, and help me improve every day:
+<div align="center">
+  <h2>🎖️ My Mentors</h2>
+  <p>The developers who continuously challenge me, elevate my standards, and help me grow:</p>
+</div>
 
 <table align="center" width="100%">
   <tr>
     <!-- Yad (@ravensborn) -->
-    <td align="center" width="50%" valign="top">
+    <td align="center" width="50%" valign="top" style="padding: 16px;">
       <a href="https://github.com/ravensborn">
         <img src="https://github.com/ravensborn.png" width="95" height="95" style="border-radius: 50%; border: 3px solid #FF2D20;" alt="Yad" />
       </a>
       <br />
       <b><a href="https://github.com/ravensborn">Yad (@ravensborn)</a></b>
       <br />
-      <sub>⭐ <b>Best Teacher & Mentor</b></sub>
+      <sub>⭐ <b>Core Mentor • Master of Perfect Testing</b></sub>
       <br /><br />
       <p align="left">
-        <i>"Yad is my main teacher who guides me to write <b>perfect tests</b>, think in TDD, and grow my skills and backend ideas every single day. Always patient and pushing me to become a better developer."</i>
+        <i>"Yad is my main teacher who guides me to write <b>perfect tests</b>, think in TDD, and grow my skills and backend ideas every single day. His guidance on testing with Pest &amp; PHPUnit shapes my code discipline and problem-solving mindset."</i>
       </p>
-      <div>
+      <div align="center">
         <a href="https://github.com/ravensborn"><img src="https://img.shields.io/badge/GitHub-@ravensborn-181717?style=flat-square&logo=github" /></a>
-        <img src="https://img.shields.io/badge/Focus-Perfect_Testing-FF2D20?style=flat-square" />
+        <img src="https://img.shields.io/badge/Discipline-Perfect_Testing-FF2D20?style=flat-square" />
       </div>
     </td>
     <!-- Zardasht Rwandzi (@codezardasht) -->
-    <td align="center" width="50%" valign="top">
+    <td align="center" width="50%" valign="top" style="padding: 16px;">
       <a href="https://github.com/codezardasht">
         <img src="https://github.com/codezardasht.png" width="95" height="95" style="border-radius: 50%; border: 3px solid #3B82F6;" alt="Zardasht Rwandzi" />
       </a>
       <br />
       <b><a href="https://github.com/codezardasht">Zardasht Rwandzi (@codezardasht)</a></b>
       <br />
-      <sub>⚡ <b>Senior Backend Mentor</b></sub>
+      <sub>⚡ <b>Senior Backend Mentor • TechnoBase</b></sub>
       <br /><br />
       <p align="left">
-        <i>"Huge thanks to Zardasht (Senior Backend Dev at TechnoBase) for inspiring me with real-world backend standards, Eloquent optimization, and clean Laravel architecture."</i>
+        <i>"Tremendous appreciation to Zardasht for inspiring high-level Laravel backend engineering, clean code structure, Eloquent performance patterns, and enterprise development standards."</i>
       </p>
-      <div>
+      <div align="center">
         <a href="https://github.com/codezardasht"><img src="https://img.shields.io/badge/GitHub-@codezardasht-181717?style=flat-square&logo=github" /></a>
-        <img src="https://img.shields.io/badge/Focus-Backend_Architecture-3B82F6?style=flat-square" />
+        <img src="https://img.shields.io/badge/Discipline-Backend_Architecture-3B82F6?style=flat-square" />
       </div>
     </td>
   </tr>
@@ -87,73 +83,133 @@ Behind my growth are incredible teachers who guide my steps, challenge me, and h
 
 ---
 
-### 🎓 Laracasts Teachers I Learn From
-
-I study backend Laravel on **Laracasts** every day. These are the instructors whose series I follow:
+<div align="center">
+  <h2>🎓 Laracasts &amp; Clean Code Teachers</h2>
+  <p>The world-class instructors whose series, books, and patterns inspire my daily practice:</p>
+</div>
 
 <table align="center" width="100%">
   <tr>
-    <td align="center" width="33%" valign="top">
+    <!-- Jeffrey Way -->
+    <td align="center" width="25%" valign="top" style="padding: 12px;">
       <a href="https://github.com/jeffreyway">
-        <img src="https://github.com/jeffreyway.png" width="80" height="80" style="border-radius: 50%;" alt="Jeffrey Way" />
+        <img src="https://github.com/jeffreyway.png" width="75" height="75" style="border-radius: 50%; border: 2px solid #FF2D20;" alt="Jeffrey Way" />
       </a>
       <br />
       <b><a href="https://github.com/jeffreyway">Jeffrey Way</a></b>
       <br />
-      <sub>Founder of Laracasts</sub>
-      <br /><br />
-      <img src="https://img.shields.io/badge/Series-Laravel_From_Scratch-FF2D20?style=flat-square" />
+      <sub>🧼 <b>Clean Code in PHP</b></sub>
       <br />
-      <sub>Clean PHP, OOP & Laravel Core</sub>
+      <sub><i>Laracasts Founder • OOP</i></sub>
     </td>
-    <td align="center" width="33%" valign="top">
+    <!-- Luke Downing -->
+    <td align="center" width="25%" valign="top" style="padding: 12px;">
       <a href="https://github.com/lukeraymonddowning">
-        <img src="https://github.com/lukeraymonddowning.png" width="80" height="80" style="border-radius: 50%;" alt="Luke Downing" />
+        <img src="https://github.com/lukeraymonddowning.png" width="75" height="75" style="border-radius: 50%; border: 2px solid #F23473;" alt="Luke Downing" />
       </a>
       <br />
       <b><a href="https://github.com/lukeraymonddowning">Luke Downing</a></b>
       <br />
-      <sub>Pest Core Team Member</sub>
-      <br /><br />
-      <img src="https://img.shields.io/badge/Series-Testing_with_Pest-F23473?style=flat-square" />
+      <sub>🧪 <b>Testing with Pest</b></sub>
       <br />
-      <sub>Test-Driven Development & Pest</sub>
+      <sub><i>Pest Core Team • TDD</i></sub>
     </td>
-    <td align="center" width="33%" valign="top">
+    <!-- Jason McCreary -->
+    <td align="center" width="25%" valign="top" style="padding: 12px;">
+      <a href="https://github.com/jasonmccreary">
+        <img src="https://github.com/jasonmccreary.png" width="75" height="75" style="border-radius: 50%; border: 2px solid #10B981;" alt="Jason McCreary" />
+      </a>
+      <br />
+      <b><a href="https://github.com/jasonmccreary">Jason McCreary</a></b>
+      <br />
+      <sub>🔄 <b>Refactoring &amp; Clean Code</b></sub>
+      <br />
+      <sub><i>Laravel Shift • BaseCode</i></sub>
+    </td>
+    <!-- Christoph Rumpel -->
+    <td align="center" width="25%" valign="top" style="padding: 12px;">
       <a href="https://github.com/christophrumpel">
-        <img src="https://github.com/christophrumpel.png" width="80" height="80" style="border-radius: 50%;" alt="Christoph Rumpel" />
+        <img src="https://github.com/christophrumpel.png" width="75" height="75" style="border-radius: 50%; border: 2px solid #0099FF;" alt="Christoph Rumpel" />
       </a>
       <br />
       <b><a href="https://github.com/christophrumpel">Christoph Rumpel</a></b>
       <br />
-      <sub>Laracasts Teacher & Author</sub>
-      <br /><br />
-      <img src="https://img.shields.io/badge/Series-Laravel_APIs-0099FF?style=flat-square" />
+      <sub>🛡️ <b>APIs &amp; Testing</b></sub>
       <br />
-      <sub>RESTful APIs & Sanctum</sub>
+      <sub><i>Laracasts Author</i></sub>
+    </td>
+  </tr>
+  <tr>
+    <!-- Jonathan Reinink -->
+    <td align="center" width="25%" valign="top" style="padding: 12px;">
+      <a href="https://github.com/reinink">
+        <img src="https://github.com/reinink.png" width="75" height="75" style="border-radius: 50%; border: 2px solid #8B5CF6;" alt="Jonathan Reinink" />
+      </a>
+      <br />
+      <b><a href="https://github.com/reinink">Jonathan Reinink</a></b>
+      <br />
+      <sub>⚡ <b>Eloquent Performance</b></sub>
+      <br />
+      <sub><i>Subqueries &amp; Indexing</i></sub>
+    </td>
+    <!-- Mohamed Said -->
+    <td align="center" width="25%" valign="top" style="padding: 12px;">
+      <a href="https://github.com/themsaid">
+        <img src="https://github.com/themsaid.png" width="75" height="75" style="border-radius: 50%; border: 2px solid #F59E0B;" alt="Mohamed Said" />
+      </a>
+      <br />
+      <b><a href="https://github.com/themsaid">Mohamed Said</a></b>
+      <br />
+      <sub>📬 <b>Queues in Action</b></sub>
+      <br />
+      <sub><i>Async Workers &amp; Redis</i></sub>
+    </td>
+    <!-- Aaron Francis -->
+    <td align="center" width="25%" valign="top" style="padding: 12px;">
+      <a href="https://github.com/aarondfrancis">
+        <img src="https://github.com/aarondfrancis.png" width="75" height="75" style="border-radius: 50%; border: 2px solid #06B6D4;" alt="Aaron Francis" />
+      </a>
+      <br />
+      <b><a href="https://github.com/aarondfrancis">Aaron Francis</a></b>
+      <br />
+      <sub>🗄️ <b>Database Design</b></sub>
+      <br />
+      <sub><i>High-Performance SQL</i></sub>
+    </td>
+    <!-- Freek Van der Herten -->
+    <td align="center" width="25%" valign="top" style="padding: 12px;">
+      <a href="https://github.com/freekmurze">
+        <img src="https://github.com/freekmurze.png" width="75" height="75" style="border-radius: 50%; border: 2px solid #EC4899;" alt="Freek Van der Herten" />
+      </a>
+      <br />
+      <b><a href="https://github.com/freekmurze">Freek Van der Herten</a></b>
+      <br />
+      <sub>🧱 <b>Beyond CRUD Architecture</b></sub>
+      <br />
+      <sub><i>Spatie • Clean Backend</i></sub>
     </td>
   </tr>
 </table>
 
 ---
 
-### 🎯 Am I Fresh? (My Current Level & Skills)
+### 🎯 Am I Fresh? (My Level & Learning Edge)
 
-I am honest about where I stand: I am a **Fresh Junior** who wants to learn the right way!
+I believe in transparency. I am a **Fresh Junior Developer** who is building strong foundations:
 
-- 🟢 **Currently Practicing & Comfortable with:**
-  - Modern PHP basics (OOP, types, functions)
-  - Laravel Core (Routing, Controllers, Models, Migrations)
+- 🟢 **What I Practice Daily:**
+  - Modern PHP basics (OOP, types, clean functions)
+  - Laravel Core (Routing, Controllers, Models, Form Requests)
   - **Automated Testing** with **Pest PHP** & **PHPUnit** (Feature & Unit tests)
-  - MySQL database basics & Eloquent relationships
-  - Git & Linux terminal basics
+  - MySQL database schemas & Eloquent relationships
+  - Linux CLI & Git branch workflows
 
-- 🟡 **Currently Learning & Exploring:**
-  - Queues & Background Jobs (Redis)
-  - Building RESTful APIs with Sanctum
-  - Clean service layers & avoiding duplicate code
+- 🟡 **What I Am Exploring Next:**
+  - Redis Queues & Async background workers
+  - Secure REST API design with Laravel Sanctum
+  - Refactoring smells & applying single responsibility
 
-> 💡 **Help me know my level!** If you are a mentor or senior developer, please check my code, test my repositories, or give me advice — every critique helps me grow!
+> 💬 **Help me calibrate my skills!** If you are a mentor, senior engineer, or reviewer: inspect my repositories, challenge my test coverage, or share your feedback. Every critique helps me become a better engineer!
 
 ---
 
@@ -171,27 +227,40 @@ I am honest about where I stand: I am a **Fresh Junior** who wants to learn the 
 
 <table align="center" width="100%">
   <tr>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" style="padding: 12px;">
       <b>🔐 <a href="https://github.com/a4hmad1/auth-package">auth-package</a></b>
       <br />
       <sub>Laravel authentication kit with multi-driver support and automated tests.</sub>
+      <br /><br />
+      <img src="https://img.shields.io/badge/Language-PHP-777BB4?style=flat-square" />
+      <img src="https://img.shields.io/badge/Framework-Laravel-FF2D20?style=flat-square" />
+      <img src="https://img.shields.io/badge/Tests-Passing-brightgreen?style=flat-square" />
     </td>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" style="padding: 12px;">
       <b>⚡ <a href="https://github.com/a4hmad1/laravel-queue-mastery">laravel-queue-mastery</a></b>
       <br />
       <sub>Practicing asynchronous queue workers, Redis jobs, and task scheduling.</sub>
+      <br /><br />
+      <img src="https://img.shields.io/badge/Jobs-Redis_Queues-DC382D?style=flat-square" />
+      <img src="https://img.shields.io/badge/Status-Learning-blue?style=flat-square" />
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" style="padding: 12px;">
       <b>🏗️ <a href="https://github.com/a4hmad1/laravel-mastery">laravel-mastery</a></b>
       <br />
-      <sub>Practicing clean architecture, form requests, and service structure.</sub>
+      <sub>Clean architecture practice, Form Request validation, and service classes.</sub>
+      <br /><br />
+      <img src="https://img.shields.io/badge/Architecture-Service_Layer-blue?style=flat-square" />
+      <img src="https://img.shields.io/badge/Clean_Code-SOLID-success?style=flat-square" />
     </td>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" style="padding: 12px;">
       <b>🌐 <a href="https://github.com/a4hmad1/Blog-APi">Blog-APi</a></b>
       <br />
-      <sub>RESTful API practice project tested with Pest PHP.</sub>
+      <sub>RESTful API practice project tested end-to-end with Pest PHP.</sub>
+      <br /><br />
+      <img src="https://img.shields.io/badge/API-RESTful-0EA5E9?style=flat-square" />
+      <img src="https://img.shields.io/badge/Testing-Pest-F23473?style=flat-square" />
     </td>
   </tr>
 </table>
@@ -209,5 +278,5 @@ I am honest about where I stand: I am a **Fresh Junior** who wants to learn the 
 ---
 
 <div align="center">
-  <sub>Mentored by <a href="https://github.com/ravensborn">@ravensborn</a> & <a href="https://github.com/codezardasht">@codezardasht</a> • Learning on <a href="https://laracasts.com">Laracasts</a></sub>
+  <sub>Mentored with gratitude by <a href="https://github.com/ravensborn">@ravensborn</a> &amp; <a href="https://github.com/codezardasht">@codezardasht</a> • Continuous learner on <a href="https://laracasts.com">Laracasts</a></sub>
 </div>
