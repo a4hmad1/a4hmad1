@@ -34,20 +34,6 @@ I am a passionate **Full-Stack Developer** focused on the **Laravel and React / 
 - 💡 **Continuous Learning:** Constantly studying clean code, architecture patterns, and refactoring on **Laracasts**.
 - 🤝 **Mentored by the Best:** Blessed to learn and sharpen my developer mindset under the guidance of **Yad ([@ravensborn](https://github.com/ravensborn))** and **Zardasht ([@codezardasht](https://github.com/codezardasht))**.
 
-```php
-// tests/Feature/DeveloperProfileTest.php
-
-it('ensures ahmad builds robust full-stack applications with high testing standards', function () {
-    $developer = Developer::query()->where('handle', 'a4hmad1')->firstOrFail();
-
-    expect($developer->frontend)->toMatchArray(['HTML5', 'CSS3', 'JavaScript', 'React', 'Next.js'])
-        ->and($developer->backend)->toBe('Laravel 11+ with PHP 8.3')
-        ->and($developer->mindset)->toBe(Mindset::TEST_DRIVEN_DEVELOPMENT)
-        ->and($developer->testSuite)->toContain('Pest PHP', 'PHPUnit')
-        ->and($developer->mentors)->toMatchArray(['@ravensborn', '@codezardasht'])
-        ->and($developer->isReadyForJuniorRole())->toBeTrue();
-});
-```
 
 ---
 
@@ -103,50 +89,6 @@ Behind every developer striving for excellence are mentors who challenge their t
   </tr>
 </table>
 
----
-
-## 🏛️ Learning Platform & Company
-
-<table align="center" width="100%">
-  <tr>
-    <!-- Laracasts Card -->
-    <td align="center" width="50%" valign="top" style="padding: 20px; border: 1px solid #30363d; border-radius: 12px; background-color: #0d1117;">
-      <a href="https://laracasts.com" target="_blank">
-        <img src="https://laracasts.com/images/logo-new.svg" height="52px" alt="Laracasts" />
-      </a>
-      <br /><br />
-      <h3><a href="https://laracasts.com" style="color: #0099FF; text-decoration: none;">Laracasts</a></h3>
-      <p><b>🎓 Premier Platform for PHP, Laravel & Clean Code</b></p>
-      <p align="center">
-        <i>My daily virtual academy for mastering modern PHP 8+, clean architecture patterns, RESTful APIs, and Test-Driven Development.</i>
-      </p>
-      <div align="center">
-        <a href="https://laracasts.com" target="_blank">
-          <img src="https://img.shields.io/badge/Official_Website-laracasts.com-0099FF?style=for-the-badge&logo=laracasts&logoColor=white" alt="Laracasts Website" />
-        </a>
-      </div>
-    </td>
-    <!-- TechnoBase Card -->
-    <td align="center" width="50%" valign="top" style="padding: 20px; border: 1px solid #30363d; border-radius: 12px; background-color: #0d1117;">
-      <a href="https://technobase.krd/" target="_blank">
-        <img src="https://technobase.krd/img/icon.png" width="62px" height="62px" style="border-radius: 50%; border: 2px solid #3B82F6; object-fit: cover;" alt="TechnoBase" />
-      </a>
-      <br /><br />
-      <h3><a href="https://technobase.krd/" style="color: #38BDF8; text-decoration: none;">TechnoBase</a></h3>
-      <p><b>🏢 Software Development & Engineering • Erbil, Kurdistan</b></p>
-      <p align="center">
-        <i>Enterprise software development company and high-performance engineering hub where my mentor <a href="https://github.com/codezardasht">@codezardasht</a> builds scalable systems.</i>
-      </p>
-      <div align="center">
-        <a href="https://technobase.krd/" target="_blank">
-          <img src="https://img.shields.io/badge/Official_Website-technobase.krd-1E40AF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="TechnoBase Website" />
-        </a>
-      </div>
-    </td>
-  </tr>
-</table>
-
----
 
 ## 🛠️ Tech Stack & Circular Icons
 
@@ -188,55 +130,7 @@ Behind every developer striving for excellence are mentors who challenge their t
 
 </div>
 
----
 
-## 📦 Featured Repositories
-
-Here are some highlights of my recent hands-on projects:
-
-<table align="center" width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🔐 <a href="https://github.com/a4hmad1/auth-package">auth-package</a></h4>
-      <p>Modular Laravel authentication kit featuring multi-driver support, clean service abstractions, and comprehensive automated test coverage.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Language-PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
-        <img src="https://img.shields.io/badge/Framework-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
-        <img src="https://img.shields.io/badge/Tests-Passing-brightgreen?style=flat-square" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h4>⚡ <a href="https://github.com/a4hmad1/laravel-queue-mastery">laravel-queue-mastery</a></h4>
-      <p>In-depth exploration of asynchronous processing in Laravel, implementing Redis queues, worker supervisor configurations, and job failure workflows.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Language-PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
-        <img src="https://img.shields.io/badge/Driver-Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
-        <img src="https://img.shields.io/badge/Architecture-Async_Jobs-4F46E5?style=flat-square" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🏗️ <a href="https://github.com/a4hmad1/laravel-mastery">laravel-mastery</a> & <a href="https://github.com/a4hmad1/Laravel-Services">Laravel-Services</a></h4>
-      <p>Clean architecture blueprint implementing Action classes, custom Service layers, Form Request validation, and single-responsibility patterns.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Architecture-Service_Layer-blue?style=flat-square" />
-        <img src="https://img.shields.io/badge/Clean_Code-SOLID-success?style=flat-square" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🌐 <a href="https://github.com/a4hmad1/Blog-APi">Blog-APi</a></h4>
-      <p>RESTful API backend adhering to JSON API standards, protected by Laravel Sanctum authentication, and tested end-to-end with Pest.</p>
-      <p>
-        <img src="https://img.shields.io/badge/API-RESTful-0EA5E9?style=flat-square" />
-        <img src="https://img.shields.io/badge/Auth-Sanctum-FF2D20?style=flat-square" />
-        <img src="https://img.shields.io/badge/Testing-Pest-F23473?style=flat-square" />
-      </p>
-    </td>
-  </tr>
-</table>
-
----
 
 <div align="center">
   <sub>Mentored with deep respect by <a href="https://github.com/ravensborn">@ravensborn</a> &amp; <a href="https://github.com/codezardasht">@codezardasht</a> • Learning on <a href="https://laracasts.com">Laracasts</a> • Inspired by <a href="https://technobase.krd/">TechnoBase</a></sub>
