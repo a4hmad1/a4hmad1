@@ -1,29 +1,3 @@
-<div align="center">
-
-  # Hi there, I'm <span style="color: #FF2D20;">Ahmad</span> 👋
-  ### 🚀 Full-Stack Developer • Laravel & Next.js • TDD Practitioner
-
-  <!-- Dynamic Typing Title -->
-  <a href="https://github.com/a4hmad1">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=FF2D20&center=true&vCenter=true&width=700&height=50&lines=Full+Stack+Developer+%7C+Laravel+%2B+React+%2B+Next.js;TDD+%26+Automated+Testing+Practitioner+(Pest+%26+PHPUnit);HTML5+%E2%80%A2+CSS3+%E2%80%A2+JavaScript+%E2%80%A2+React+%E2%80%A2+Next.js;Mentored+by+Yad+(@ravensborn)+%26+Zardasht+(@codezardasht);Laracasts+Scholar+%26+Clean+Code+Practitioner" alt="Typing SVG" />
-  </a>
-
-  <br />
-
-  <!-- Quick Badges -->
-  <p align="center">
-    <img src="https://img.shields.io/badge/Location-Kurdistan-0F172A?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
-    <img src="https://img.shields.io/badge/Backend-PHP_+_Laravel_11-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel Stack" />
-    <img src="https://img.shields.io/badge/Frontend-React_+_Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Frontend Stack" />
-    <img src="https://img.shields.io/badge/Testing-Pest_PHP_+_PHPUnit-F23473?style=for-the-badge&logo=pest&logoColor=white" alt="Testing Mindset" />
-    <img src="https://img.shields.io/badge/Status-Open_To_Opportunities-10B981?style=for-the-badge&logo=git&logoColor=white" alt="Status" />
-    <img src="https://komarev.com/ghpvc/?username=a4hmad1&style=for-the-badge&color=FF2D20&label=Profile+Views" alt="Profile Views" />
-  </p>
-
-</div>
-
----
-
 ## 👨‍💻 About Me
 
 I am a passionate **Full-Stack Developer** focused on the **Laravel and React / Next.js** ecosystems. My goal is to build cohesive, end-to-end applications that pair elegant, reactive user interfaces with clean, resilient, and thoroughly test-covered backend systems.
