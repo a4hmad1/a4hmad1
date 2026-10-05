@@ -5,7 +5,7 @@
 
   <!-- Dynamic Typing Title -->
   <a href="https://github.com/a4hmad1">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=FF2D20&center=true&vCenter=true&width=700&height=50&lines=Full+Stack+Developer+%7C+Laravel+%2B+React+%2B+Next.js;TDD+%26+Automated+Testing+Practitioner+(Pest+%26+PHPUnit);HTML5+%E2%80%A2+CSS3+%E2%80%A2+JavaScript+%E2%80%A2+React+%E2%80%A2+Next.js;Mentored+by+Yad+(@ravensborn)+%26+Zardasht+(@codezardasht);Laracasts+Scholar+%26+Clean+Code+Practitioner" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=FF2D20&center=true&vCenter=true&width=700&height=50&lines=Full+Stack+Developer+%7C+Laravel+%2B+React+%2B+Next.js;Available+for+Freelance+Work+(Remote);TDD+%26+Automated+Testing+Practitioner+(Pest+%26+PHPUnit);HTML5+%E2%80%A2+CSS3+%E2%80%A2+JavaScript+%E2%80%A2+React+%E2%80%A2+Next.js;Mentored+by+Yad+(@ravensborn)+%26+Zardasht+(@codezardasht);Laracasts+Scholar+%26+Clean+Code+Practitioner" alt="Typing SVG" />
   </a>
 
   <br />
@@ -16,7 +16,7 @@
     <img src="https://img.shields.io/badge/Backend-PHP_+_Laravel_11-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel Stack" />
     <img src="https://img.shields.io/badge/Frontend-React_+_Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Frontend Stack" />
     <img src="https://img.shields.io/badge/Testing-Pest_PHP_+_PHPUnit-F23473?style=for-the-badge&logo=pest&logoColor=white" alt="Testing Mindset" />
-    <img src="https://img.shields.io/badge/Status-Open_To_Opportunities-10B981?style=for-the-badge&logo=git&logoColor=white" alt="Status" />
+    <img src="https://img.shields.io/badge/Freelance-Available_for_Work_(Remote)-10B981?style=for-the-badge&logo=freelancer&logoColor=white" alt="Available for Freelance Work (Remote)" />
     <img src="https://komarev.com/ghpvc/?username=a4hmad1&style=for-the-badge&color=FF2D20&label=Profile+Views" alt="Profile Views" />
   </p>
 
@@ -37,11 +37,28 @@
 
 I am a passionate **Full-Stack Developer** focused on the **Laravel and React / Next.js** ecosystems. My goal is to build cohesive, end-to-end applications that pair elegant, reactive user interfaces with clean, resilient, and thoroughly test-covered backend systems.
 
+- 💼 **Freelance & Remote Work:** Actively available for freelance contracts, MVP builds, and remote software engineering opportunities.
 - 🎨 **Frontend Development:** HTML5, CSS3, modern JavaScript (ES6+), React, and Next.js for responsive, accessible web experiences.
 - 🐘 **Backend Engineering:** Modern PHP, Laravel 11/12, RESTful API architecture, and asynchronous queue processing.
 - 🧪 **Testing Philosophy:** Strong believer in **Test-Driven Development (TDD)** using **Pest PHP** and **PHPUnit** — writing unit and feature tests that ensure stability and reliability.
 - 💡 **Continuous Learning:** Constantly studying clean code, architecture patterns, and refactoring on **Laracasts**.
 - 🤝 **Mentored by the Best:** Blessed to learn and sharpen my developer mindset under the guidance of **Yad ([@ravensborn](https://github.com/ravensborn))** and **Zardasht ([@codezardasht](https://github.com/codezardasht))**.
+
+
+---
+
+## 💼 Available for Freelance & Remote Work
+
+I am actively open to **freelance projects** and **remote engineering roles**. If you need a reliable developer who cares about clean code, high test coverage, and smooth user experiences:
+
+- 🌐 **Full-Stack Applications:** Modern web apps with **Laravel**, **React**, **Next.js**, and **Tailwind CSS**.
+- ⚙️ **API & Backend Systems:** Scalable RESTful APIs, relational databases (MySQL, PostgreSQL), caching, and background workers.
+- 🧪 **Automated Testing:** Comprehensive unit and feature test coverage with **Pest PHP** & **PHPUnit**.
+- 🛠️ **Refactoring & Optimization:** Modernizing legacy code, query optimization, and implementing best practices.
+
+📫 **Get in touch:**
+- 📧 **Email:** [aashaqlawa8767@gmail.com](mailto:aashaqlawa8767@gmail.com)
+- 💬 **GitHub:** [@a4hmad1](https://github.com/a4hmad1)
 
 
 ---
