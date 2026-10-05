@@ -57,8 +57,18 @@ I am actively open to **freelance projects** and **remote engineering roles**. I
 - 🛠️ **Refactoring & Optimization:** Modernizing legacy code, query optimization, and implementing best practices.
 
 📫 **Get in touch:**
-- 📧 **Email:** [aashaqlawa8767@gmail.com](mailto:aashaqlawa8767@gmail.com)
+- 📧 **Email:** [ahmaddmuhammad03@gmail.com](mailto:ahmaddmuhammad03@gmail.com)
+- ✈️ **Telegram:** [@a4hmad1](https://t.me/a4hmad1)
 - 💬 **GitHub:** [@a4hmad1](https://github.com/a4hmad1)
+
+<p>
+  <a href="mailto:ahmaddmuhammad03@gmail.com">
+    <img src="https://img.shields.io/badge/Email-ahmaddmuhammad03@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://t.me/a4hmad1" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-@a4hmad1-24A1DE?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+</p>
 
 
 ---
