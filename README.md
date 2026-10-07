@@ -3,13 +3,6 @@
   # Hi there, I'm <span style="color: #FF2D20;">Ahmad</span> 👋
   ### 🚀 Full-Stack Developer • Laravel & Next.js • TDD Practitioner
 
-  <!-- Dynamic Typing Title -->
-  <a href="https://github.com/a4hmad1">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=FF2D20&center=true&vCenter=true&width=700&height=50&lines=Full+Stack+Developer+%7C+Laravel+%2B+React+%2B+Next.js;Available+for+Freelance+Work+(Remote);TDD+%26+Automated+Testing+Practitioner+(Pest+%26+PHPUnit);HTML5+%E2%80%A2+CSS3+%E2%80%A2+JavaScript+%E2%80%A2+React+%E2%80%A2+Next.js;Mentored+by+Yad+(@ravensborn)+%26+Zardasht+(@codezardasht);Laracasts+Scholar+%26+Clean+Code+Practitioner" alt="Typing SVG" />
-  </a>
-
-  <br />
-
   <!-- Quick Badges -->
   <p align="center">
     <img src="https://img.shields.io/badge/Location-Kurdistan-0F172A?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
@@ -42,8 +35,6 @@ I am a passionate **Full-Stack Developer** focused on the **Laravel and React / 
 - 🐘 **Backend Engineering:** Modern PHP, Laravel 11/12, RESTful API architecture, and asynchronous queue processing.
 - 🧪 **Testing Philosophy:** Strong believer in **Test-Driven Development (TDD)** using **Pest PHP** and **PHPUnit** — writing unit and feature tests that ensure stability and reliability.
 - 💡 **Continuous Learning:** Constantly studying clean code, architecture patterns, and refactoring on **Laracasts**.
-- 🤝 **Mentored by the Best:** Blessed to learn and sharpen my developer mindset under the guidance of **Yad ([@ravensborn](https://github.com/ravensborn))** and **Zardasht ([@codezardasht](https://github.com/codezardasht))**.
-
 
 ---
 
@@ -77,7 +68,7 @@ I am actively open to **freelance projects** and **remote engineering roles**. I
 
 Behind every developer striving for excellence are mentors who challenge their thinking, elevate their standards, and guide them forward. I owe tremendous gratitude to my teachers:
 
-<table align="center" width="100%">
+<table align="center" width="75%">
   <tr>
     <!-- Yad (@ravensborn) -->
     <td align="center" width="50%" valign="top" style="padding: 18px; border: 1px solid #30363d; border-radius: 12px; background-color: #0d1117;">
@@ -86,11 +77,8 @@ Behind every developer striving for excellence are mentors who challenge their t
       </a>
       <br />
       <h3><a href="https://github.com/ravensborn" style="color: #FF2D20; text-decoration: none;">Yad (@ravensborn)</a></h3>
-      <p><b>🛡️ Lead Mentor • Master of Automated Testing & Architecture</b></p>
+      <p><b>Senior Software Engineer</b></p>
       <p align="left">
-        <blockquote>
-          <i>"Yad is my main mentor and the driving force behind my commitment to <b>'Perfect Testing'</b>. He patiently coaches me on writing rock-solid tests, thinking critically in TDD, and elevating my ideas from junior code to clean, production-grade architecture. Whenever I face a difficult design question or test challenge, Yad's guidance sharpens my skills and opens my eyes to better solutions."</i>
-        </blockquote>
       </p>
       <div align="center">
         <a href="https://github.com/ravensborn">
@@ -108,9 +96,6 @@ Behind every developer striving for excellence are mentors who challenge their t
       <h3><a href="https://github.com/codezardasht" style="color: #6366F1; text-decoration: none;">Zardasht Rwandzi (@codezardasht)</a></h3>
       <p><b>⚡ Senior Backend Engineer • <a href="https://technobase.krd/" style="color: #38BDF8; text-decoration: none;">TechnoBase</a></b></p>
       <p align="left">
-        <blockquote>
-          <i>"Tremendous appreciation to Zardasht for inspiring high-level Laravel backend engineering, deep Eloquent optimization, and real-world system architecture. His experience as a senior backend engineer sets the benchmark for performance, clean structure, and disciplined development."</i>
-        </blockquote>
       </p>
       <div align="center">
         <a href="https://github.com/codezardasht">
@@ -164,10 +149,4 @@ Behind every developer striving for excellence are mentors who challenge their t
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   </p>
 
-</div>
-
-
-
-<div align="center">
-  <sub>Mentored with deep respect by <a href="https://github.com/ravensborn">@ravensborn</a> &amp; <a href="https://github.com/codezardasht">@codezardasht</a> • Learning on <a href="https://laracasts.com">Laracasts</a> • Inspired by <a href="https://technobase.krd/">TechnoBase</a></sub>
 </div>
