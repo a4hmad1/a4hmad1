@@ -15,7 +15,14 @@
 
   <!-- committers.top Ranking Badges -->
 
-
+  <p align="center">
+    <a href="https://committers.top/kurdistan" target="_blank">
+      <img src="https://user-badge.committers.top/kurdistan/a4hmad1.svg" alt="committers.top Kurdistan Public Commits" />
+    </a>
+    <a href="https://committers.top/kurdistan_private" target="_blank">
+      <img src="https://user-badge.committers.top/kurdistan_private/a4hmad1.svg" alt="committers.top Kurdistan All Contributions" />
+    </a>
+  </p>
 </div>
 
 ---
