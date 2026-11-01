@@ -42,8 +42,8 @@
 <h2 align="center">My Teachers</h2>
 
 <p align="center">
-  <a href="https://github.com/ravensborn"><img src="./assets/teacher-yad.svg" width="49%" alt="Yad — Senior Software Engineer" /></a>
-  <a href="https://github.com/codezardasht"><img src="./assets/teacher-zardasht.svg" width="49%" alt="Zardasht Rwandzi — Senior Backend Engineer" /></a>
+  <a href="https://github.com/ravensborn"><img src="./assets/teacher-yad.png" width="49%" alt="Yad — Senior Software Engineer" /></a>
+  <a href="https://github.com/codezardasht"><img src="./assets/teacher-zardasht.png" width="49%" alt="Zardasht Rwandzi — Senior Backend Engineer" /></a>
 </p>
 
 <br />
