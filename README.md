@@ -1,6 +1,8 @@
 <p align="center">
-  <img src="./assets/hero.gif" width="100%" alt="Ahmad — Full-Stack Developer. Animated application, interface, and database panels. Based in Kurdistan, available for remote work." />
+  <img src="./assets/hero.gif" width="100%" alt="Ahmad — Full-Stack Developer. Animated application, interface, and database panels. Based in Kurdistan, available for freelance projects and remote work." />
 </p>
+
+<p align="center"><strong>🟢 Available for freelance projects &amp; remote work</strong></p>
 
 <p align="center">
   <a href="mailto:ahmaddmuhammad03@gmail.com"><img src="https://img.shields.io/badge/EMAIL_ME-FF7545?style=for-the-badge&amp;logo=gmail&amp;logoColor=111113" alt="Email Ahmad" /></a>
@@ -37,31 +39,12 @@
 
 <br />
 
-<h2 align="center">My teachers.</h2>
-<p align="center">The people who helped shape my engineering craft.</p>
+<h2 align="center">My Teachers</h2>
 
-<table align="center">
-  <tr>
-    <td align="center" valign="top" width="50%">
-      <br />
-      <a href="https://github.com/ravensborn"><img src="https://avatars.githubusercontent.com/u/27031143?v=4&amp;s=240" width="104" height="104" alt="Yad — my teacher, Senior Software Engineer" /></a>
-      <h3><a href="https://github.com/ravensborn">Yad</a></h3>
-      <p><strong>Senior Software Engineer</strong></p>
-      <p>My teacher in TDD and testing.</p>
-      <a href="https://github.com/ravensborn"><img src="https://img.shields.io/badge/@ravensborn-242428?style=for-the-badge&amp;logo=github&amp;logoColor=FF7545" alt="Yad on GitHub: ravensborn" /></a>
-      <br /><br />
-    </td>
-    <td align="center" valign="top" width="50%">
-      <br />
-      <a href="https://github.com/codezardasht"><img src="https://avatars.githubusercontent.com/u/35077108?v=4&amp;s=240" width="104" height="104" alt="Zardasht Rwandzi — my teacher, Senior Backend Engineer" /></a>
-      <h3><a href="https://github.com/codezardasht">Zardasht Rwandzi</a></h3>
-      <p><strong>Senior Backend Engineer</strong></p>
-      <p>My teacher in Eloquent and architecture.</p>
-      <a href="https://github.com/codezardasht"><img src="https://img.shields.io/badge/@codezardasht-242428?style=for-the-badge&amp;logo=github&amp;logoColor=B5A1E8" alt="Zardasht on GitHub: codezardasht" /></a>
-      <br /><br />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://github.com/ravensborn"><img src="./assets/teacher-yad.svg" width="49%" alt="Yad — Senior Software Engineer" /></a>
+  <a href="https://github.com/codezardasht"><img src="./assets/teacher-zardasht.svg" width="49%" alt="Zardasht Rwandzi — Senior Backend Engineer" /></a>
+</p>
 
 <br />
 
