@@ -1,30 +1,18 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="480" viewBox="0 0 1200 480" role="img" aria-labelledby="title desc">
-  <title id="title">Ahmad — Full-stack developer</title>
-  <desc id="desc">From first idea to final deploy. Laravel, React, Next.js. Based in Kurdistan, available for remote work.</desc>
-  <defs>
-    <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse"><path d="M48 0H0V48" fill="none" stroke="#ffffff" stroke-opacity=".045"/></pattern>
-    <linearGradient id="fade" x2="1" y2="1"><stop stop-color="#1c2921"/><stop offset="1" stop-color="#101410"/></linearGradient>
-  </defs>
-  <rect width="1200" height="480" rx="24" fill="#101410"/>
-  <rect width="1200" height="480" rx="24" fill="url(#grid)"/>
-  <path d="M810 0H1200V480H1010Z" fill="url(#fade)"/>
-  <g fill="none" stroke="#ceff64" stroke-opacity=".3">
-    <circle cx="1020" cy="235" r="160"/><circle cx="1020" cy="235" r="125"/>
-    <path d="M820 235h380M1020 35v400" stroke-dasharray="4 8"/>
-    <path d="m902 110 235 250M902 360l235-250"/>
-  </g>
-  <circle cx="1020" cy="235" r="80" fill="#ceff64"/>
-  <text x="1020" y="259" text-anchor="middle" font-family="monospace" font-size="65" font-weight="700" fill="#101410">a.</text>
-  <g font-family="Arial, Helvetica, sans-serif">
-    <text x="58" y="58" fill="#ceff64" font-size="14" letter-spacing="3">AHMAD / SOFTWARE ENGINEER</text>
-    <circle cx="939" cy="52" r="4" fill="#ceff64"/>
-    <text x="952" y="57" fill="#dce5d8" font-family="monospace" font-size="12">OPEN TO WORK</text>
-    <text x="54" y="166" fill="#f4f6ef" font-weight="800" font-size="84" letter-spacing="-4">Ideas into</text>
-    <text x="54" y="254" fill="#ceff64" font-weight="800" font-size="84" letter-spacing="-4">working software.</text>
-    <text x="58" y="307" fill="#aeb8a8" font-size="21">Thoughtful interfaces. Reliable backends. Tested code.</text>
-    <path d="M58 351H770" stroke="#354030"/>
-    <text x="58" y="392" fill="#f4f6ef" font-family="monospace" font-size="16">LARAVEL + REACT + NEXT.JS</text>
-    <text x="58" y="438" fill="#8e9b86" font-family="monospace" font-size="13" letter-spacing="2">BASED IN KURDISTAN / BUILDING FOR THE WEB</text>
-    <text x="1136" y="438" text-anchor="end" fill="#ceff64" font-family="monospace" font-size="14">01 / BUILD</text>
-  </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="510" viewBox="0 0 1200 510" role="img" aria-label="hero"><defs>
+<linearGradient id="neon"><stop stop-color="#48eaff"/><stop offset=".5" stop-color="#9b6dff"/><stop offset="1" stop-color="#ff61cf"/></linearGradient>
+<radialGradient id="halo"><stop stop-color="#643dc4" stop-opacity=".45"/><stop offset="1" stop-color="#080b17" stop-opacity="0"/></radialGradient>
+<pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#8995cf" stroke-opacity=".07"/></pattern>
+<filter id="glow"><feGaussianBlur stdDeviation="4"/></filter>
+</defs>
+<style>
+.spin{transform-box:fill-box;transform-origin:center;animation:spin 24s linear infinite}
+.reverse{animation-direction:reverse;animation-duration:32s}
+.float{animation:float 6s ease-in-out infinite}
+.pulse{animation:pulse 4s ease-in-out infinite}
+.flow{stroke-dasharray:8 14;animation:flow 3s linear infinite}
+@keyframes spin{to{transform:rotate(360deg)}}
+@keyframes float{50%{transform:translateY(-10px)}}
+@keyframes pulse{50%{opacity:.35}}
+@keyframes flow{to{stroke-dashoffset:-88}}
+@media(prefers-reduced-motion:reduce){.spin,.float,.pulse,.flow{animation:none}}
+</style><rect width="1200" height="510" rx="24" fill="#080b17"/><rect width="1200" height="510" rx="24" fill="url(#grid)"/><ellipse cx="900" cy="260" rx="370" ry="300" fill="url(#halo)"/><text x="48" y="51" fill="#8f9bbf" font-family="Arial,Helvetica,sans-serif" font-size="13" letter-spacing="3">A4HMAD1  /  DEVELOPER PORTFOLIO</text><circle cx="986" cy="46" r="5" fill="#5af5c5" class="pulse"/><text x="1002" y="51" fill="#5af5c5" font-family="Arial,Helvetica,sans-serif" font-size="12" >OPEN TO WORK</text><text x="48" y="127" fill="#65deff" font-family="Arial,Helvetica,sans-serif" font-size="15" letter-spacing="5">HELLO, WORLD. I’M</text><text x="40" y="240" fill="url(#neon)" font-family="Arial,Helvetica,sans-serif" font-size="116" font-weight="900" letter-spacing="-5">AHMAD</text><text x="48" y="290" fill="#f5f4ff" font-family="Arial,Helvetica,sans-serif" font-size="26" font-weight="700" letter-spacing="3">FULL-STACK DEVELOPER</text><text x="48" y="330" fill="#a9b1d0" font-family="Arial,Helvetica,sans-serif" font-size="18" >Laravel precision. React energy. Tested from the start.</text><rect x="48" y="365" width="128" height="38" rx="19" fill="#ff687d" fill-opacity=".08" stroke="#ff687d" stroke-opacity=".4"/><text x="112" y="389" fill="#ff687d" font-family="Arial,Helvetica,sans-serif" font-size="12" text-anchor="middle" letter-spacing="2">LARAVEL</text><rect x="195" y="365" width="128" height="38" rx="19" fill="#62ddff" fill-opacity=".08" stroke="#62ddff" stroke-opacity=".4"/><text x="259" y="389" fill="#62ddff" font-family="Arial,Helvetica,sans-serif" font-size="12" text-anchor="middle" letter-spacing="2">REACT</text><rect x="332" y="365" width="128" height="38" rx="19" fill="#cfb4ff" fill-opacity=".08" stroke="#cfb4ff" stroke-opacity=".4"/><text x="396" y="389" fill="#cfb4ff" font-family="Arial,Helvetica,sans-serif" font-size="12" text-anchor="middle" letter-spacing="2">NEXT.JS</text><g transform="translate(917 253)"><circle r="177" fill="none" stroke="#645294" stroke-opacity=".4"/><circle r="152" fill="none" stroke="url(#neon)" stroke-width="2" stroke-dasharray="190 45 20 70" class="spin"/><circle r="126" fill="none" stroke="#48eaff" stroke-opacity=".5" stroke-dasharray="2 14" class="spin reverse"/><circle r="98" fill="#11152b" stroke="#a488ff" stroke-opacity=".5"/><ellipse rx="70" ry="27" fill="none" stroke="#71dfff" stroke-width="2" transform="rotate(30)"/><ellipse rx="70" ry="27" fill="none" stroke="#b19bff" stroke-width="2" transform="rotate(-30)"/><ellipse rx="70" ry="27" fill="none" stroke="#f284dd" stroke-width="2" transform="rotate(90)"/><circle r="10" fill="#e4d9ff"/><g class="spin"><circle cx="177" r="7" fill="#66e8ff"/><circle cx="-177" r="5" fill="#f386e2"/></g></g><g class="float"><rect x="775" y="98" width="72" height="64" rx="16" fill="#141a32" stroke="#68e5ff" stroke-opacity=".5"/><text x="811" y="139" text-anchor="middle" font-family="monospace" font-size="25" fill="#68e5ff">&lt;/&gt;</text></g><g class="float"><rect x="1028" y="339" width="72" height="64" rx="16" fill="#141a32" stroke="#c49cff" stroke-opacity=".5"/><text x="1064" y="380" text-anchor="middle" font-family="monospace" font-size="25" fill="#c49cff">{ }</text></g><path d="M48 444H1152" stroke="url(#neon)" stroke-opacity=".35"/><text x="48" y="478" fill="#8f9bbf" font-family="Arial,Helvetica,sans-serif" font-size="12" letter-spacing="2">KURDISTAN → WORLDWIDE</text><text x="1152" y="478" fill="#8f9bbf" font-family="Arial,Helvetica,sans-serif" font-size="12" text-anchor="end" letter-spacing="2">CODE / CREATE / REFINE</text></svg>

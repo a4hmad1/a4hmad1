@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="230" viewBox="0 0 1200 230" role="img" aria-label="connect"><defs>
+<linearGradient id="neon"><stop stop-color="#48eaff"/><stop offset=".5" stop-color="#9b6dff"/><stop offset="1" stop-color="#ff61cf"/></linearGradient>
+<radialGradient id="halo"><stop stop-color="#643dc4" stop-opacity=".45"/><stop offset="1" stop-color="#080b17" stop-opacity="0"/></radialGradient>
+<pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#8995cf" stroke-opacity=".07"/></pattern>
+<filter id="glow"><feGaussianBlur stdDeviation="4"/></filter>
+</defs>
+<style>
+.spin{transform-box:fill-box;transform-origin:center;animation:spin 24s linear infinite}
+.reverse{animation-direction:reverse;animation-duration:32s}
+.float{animation:float 6s ease-in-out infinite}
+.pulse{animation:pulse 4s ease-in-out infinite}
+.flow{stroke-dasharray:8 14;animation:flow 3s linear infinite}
+@keyframes spin{to{transform:rotate(360deg)}}
+@keyframes float{50%{transform:translateY(-10px)}}
+@keyframes pulse{50%{opacity:.35}}
+@keyframes flow{to{stroke-dashoffset:-88}}
+@media(prefers-reduced-motion:reduce){.spin,.float,.pulse,.flow{animation:none}}
+</style><rect width="1200" height="230" rx="24" fill="#080b17"/><rect width="1200" height="230" rx="24" fill="url(#grid)"/><ellipse cx="600" cy="130" rx="500" ry="200" fill="url(#halo)"/><text x="600" y="59" fill="#7ee6ff" font-family="Arial,Helvetica,sans-serif" font-size="13" text-anchor="middle" letter-spacing="4">NEXT PROJECT / YOUR IDEA</text><text x="600" y="120" fill="#f0edff" font-family="Arial,Helvetica,sans-serif" font-size="40" font-weight="800" text-anchor="middle">LET’S BUILD SOMETHING GREAT.</text><text x="600" y="162" fill="#a7b2d4" font-family="Arial,Helvetica,sans-serif" font-size="18" text-anchor="middle">Freelance · MVPs · Remote opportunities</text><path d="M240 199H960" stroke="url(#neon)" class="flow"/></svg>

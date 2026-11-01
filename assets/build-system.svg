@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="302" viewBox="0 0 1200 302" role="img" aria-label="build-system"><defs>
+<linearGradient id="neon"><stop stop-color="#48eaff"/><stop offset=".5" stop-color="#9b6dff"/><stop offset="1" stop-color="#ff61cf"/></linearGradient>
+<radialGradient id="halo"><stop stop-color="#643dc4" stop-opacity=".45"/><stop offset="1" stop-color="#080b17" stop-opacity="0"/></radialGradient>
+<pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#8995cf" stroke-opacity=".07"/></pattern>
+<filter id="glow"><feGaussianBlur stdDeviation="4"/></filter>
+</defs>
+<style>
+.spin{transform-box:fill-box;transform-origin:center;animation:spin 24s linear infinite}
+.reverse{animation-direction:reverse;animation-duration:32s}
+.float{animation:float 6s ease-in-out infinite}
+.pulse{animation:pulse 4s ease-in-out infinite}
+.flow{stroke-dasharray:8 14;animation:flow 3s linear infinite}
+@keyframes spin{to{transform:rotate(360deg)}}
+@keyframes float{50%{transform:translateY(-10px)}}
+@keyframes pulse{50%{opacity:.35}}
+@keyframes flow{to{stroke-dashoffset:-88}}
+@media(prefers-reduced-motion:reduce){.spin,.float,.pulse,.flow{animation:none}}
+</style><rect width="1200" height="302" rx="24" fill="#080b17"/><rect width="1200" height="302" rx="24" fill="url(#grid)"/><text x="40" y="49" fill="#77dfff" font-family="Arial,Helvetica,sans-serif" font-size="14" letter-spacing="4">THE BUILD SYSTEM</text><rect x="30" y="78" width="360" height="194" rx="18" fill="#101529" stroke="#61dfff" stroke-opacity=".25"/><g transform="translate(78 132)" fill="none" stroke="#61dfff" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="m-15-12-16 12 16 12m30-24 16 12-16 12m-10-32-10 40"/></g><text x="54" y="205" fill="#f0f1ff" font-family="Arial,Helvetica,sans-serif" font-size="20" font-weight="700">01 / INTERFACES</text><text x="54" y="240" fill="#a9b1d0" font-family="Arial,Helvetica,sans-serif" font-size="16" >React · Next.js · Tailwind</text><path d="M143 132h214" stroke="#61dfff" stroke-opacity=".5" class="flow"/><rect x="420" y="78" width="360" height="194" rx="18" fill="#101529" stroke="#b999ff" stroke-opacity=".25"/><g transform="translate(468 132)" fill="none" stroke="#b999ff" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><rect x="-25" y="-23" width="50" height="18" rx="5"/><rect x="-25" y="5" width="50" height="18" rx="5"/><path d="M-15-14h8m-8 28h8"/></g><text x="444" y="205" fill="#f0f1ff" font-family="Arial,Helvetica,sans-serif" font-size="20" font-weight="700">02 / BACKENDS</text><text x="444" y="240" fill="#a9b1d0" font-family="Arial,Helvetica,sans-serif" font-size="16" >Laravel · PHP · REST APIs</text><path d="M533 132h214" stroke="#b999ff" stroke-opacity=".5" class="flow"/><rect x="810" y="78" width="360" height="194" rx="18" fill="#101529" stroke="#ff88d7" stroke-opacity=".25"/><g transform="translate(858 132)" fill="none" stroke="#ff88d7" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M0-29 25-18v20c0 17-25 28-25 28S-25 19-25 2v-20Z"/><path d="m-12 0 9 9L15-10"/></g><text x="834" y="205" fill="#f0f1ff" font-family="Arial,Helvetica,sans-serif" font-size="20" font-weight="700">03 / CONFIDENCE</text><text x="834" y="240" fill="#a9b1d0" font-family="Arial,Helvetica,sans-serif" font-size="16" >Pest · PHPUnit · TDD</text><path d="M923 132h214" stroke="#ff88d7" stroke-opacity=".5" class="flow"/></svg>
