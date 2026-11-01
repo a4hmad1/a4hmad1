@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="480" viewBox="0 0 1200 480" role="img" aria-labelledby="title desc">
+  <title id="title">Ahmad — Full-stack developer</title>
+  <desc id="desc">From first idea to final deploy. Laravel, React, Next.js. Based in Kurdistan, available for remote work.</desc>
+  <defs>
+    <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse"><path d="M48 0H0V48" fill="none" stroke="#ffffff" stroke-opacity=".045"/></pattern>
+    <linearGradient id="fade" x2="1" y2="1"><stop stop-color="#1c2921"/><stop offset="1" stop-color="#101410"/></linearGradient>
+  </defs>
+  <rect width="1200" height="480" rx="24" fill="#101410"/>
+  <rect width="1200" height="480" rx="24" fill="url(#grid)"/>
+  <path d="M810 0H1200V480H1010Z" fill="url(#fade)"/>
+  <g fill="none" stroke="#ceff64" stroke-opacity=".3">
+    <circle cx="1020" cy="235" r="160"/><circle cx="1020" cy="235" r="125"/>
+    <path d="M820 235h380M1020 35v400" stroke-dasharray="4 8"/>
+    <path d="m902 110 235 250M902 360l235-250"/>
+  </g>
+  <circle cx="1020" cy="235" r="80" fill="#ceff64"/>
+  <text x="1020" y="259" text-anchor="middle" font-family="monospace" font-size="65" font-weight="700" fill="#101410">a.</text>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="58" y="58" fill="#ceff64" font-size="14" letter-spacing="3">AHMAD / SOFTWARE ENGINEER</text>
+    <circle cx="939" cy="52" r="4" fill="#ceff64"/>
+    <text x="952" y="57" fill="#dce5d8" font-family="monospace" font-size="12">OPEN TO WORK</text>
+    <text x="54" y="166" fill="#f4f6ef" font-weight="800" font-size="84" letter-spacing="-4">Ideas into</text>
+    <text x="54" y="254" fill="#ceff64" font-weight="800" font-size="84" letter-spacing="-4">working software.</text>
+    <text x="58" y="307" fill="#aeb8a8" font-size="21">Thoughtful interfaces. Reliable backends. Tested code.</text>
+    <path d="M58 351H770" stroke="#354030"/>
+    <text x="58" y="392" fill="#f4f6ef" font-family="monospace" font-size="16">LARAVEL + REACT + NEXT.JS</text>
+    <text x="58" y="438" fill="#8e9b86" font-family="monospace" font-size="13" letter-spacing="2">BASED IN KURDISTAN / BUILDING FOR THE WEB</text>
+    <text x="1136" y="438" text-anchor="end" fill="#ceff64" font-family="monospace" font-size="14">01 / BUILD</text>
+  </g>
+</svg>
